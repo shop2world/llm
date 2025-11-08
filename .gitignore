@@ -53,3 +53,13 @@ Thumbs.db
 # Logs
 *.log
 
+# Security - Credentials and sensitive files
+*credentials*.ps1
+*password*.ps1
+*token*.ps1
+*secret*.ps1
+create_repo.ps1
+clear_github_credentials.ps1
+*_INSTRUCTIONS.md
+*_GUIDE.md
+
