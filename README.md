@@ -27,6 +27,10 @@
 - **모델 학습**: Transformer 아키텍처를 사용하여 언어 패턴 학습
 - **텍스트 생성**: 학습된 모델로 새로운 텍스트 생성
 
+### 📺 시연 동영상
+
+프로젝트 시연 및 설명 동영상: [YouTube 링크](https://youtu.be/VilBGQw0AWE)
+
 ## 📦 필수 요구사항
 
 - Python 3.8 이상
@@ -385,6 +389,7 @@ CONFIG = {
 
 ## 📚 참고 자료
 
+- [프로젝트 시연 동영상](https://youtu.be/VilBGQw0AWE)
 - [Transformer 논문](https://arxiv.org/abs/1706.03762)
 - [Project Gutenberg](https://www.gutenberg.org/)
 - [PyTorch 공식 문서](https://pytorch.org/docs/stable/index.html)
