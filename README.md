@@ -1,5 +1,13 @@
 # 햄릿 언어 모델 (Hamlet Language Model)
 
+## 📺 수학 포기자를 위한 대형 언어 모델(LLM) 만드는 방법
+
+[![YouTube Video](https://img.youtube.com/vi/VilBGQw0AWE/0.jpg)](https://youtu.be/VilBGQw0AWE)
+
+**프로젝트 시연 및 설명 동영상**: [수학 포기자를 위한 대형 언어 모델(LLM) 만드는 방법](https://youtu.be/VilBGQw0AWE)
+
+---
+
 셰익스피어의 햄릿 텍스트로 학습한 Transformer 기반 언어 모델입니다. 이 프로젝트는 텍스트 데이터 수집부터 모델 학습, 텍스트 생성까지의 전체 과정을 단계별로 안내합니다.
 
 ## 📋 목차
@@ -26,10 +34,6 @@
 - **학습 데이터 준비**: 입력과 정답을 분리하여 모델이 다음 단어를 예측하도록 설정
 - **모델 학습**: Transformer 아키텍처를 사용하여 언어 패턴 학습
 - **텍스트 생성**: 학습된 모델로 새로운 텍스트 생성
-
-### 📺 시연 동영상
-
-프로젝트 시연 및 설명 동영상: [YouTube 링크](https://youtu.be/VilBGQw0AWE)
 
 ## 📦 필수 요구사항
 
@@ -389,7 +393,6 @@ CONFIG = {
 
 ## 📚 참고 자료
 
-- [프로젝트 시연 동영상](https://youtu.be/VilBGQw0AWE)
 - [Transformer 논문](https://arxiv.org/abs/1706.03762)
 - [Project Gutenberg](https://www.gutenberg.org/)
 - [PyTorch 공식 문서](https://pytorch.org/docs/stable/index.html)
