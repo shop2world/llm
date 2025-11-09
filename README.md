@@ -397,6 +397,10 @@ CONFIG = {
 - [Project Gutenberg](https://www.gutenberg.org/)
 - [PyTorch 공식 문서](https://pytorch.org/docs/stable/index.html)
 
+## 📖 학습 정보
+
+- [코드에 적용된 어텐션 메커니즘 설명](https://github.com/shop2world/llm/blob/main/attention_explanation.md)
+
 ## 📝 라이선스
 
 이 프로젝트는 교육 목적으로 제작되었습니다. 햄릿 텍스트는 저작권이 만료된 공개 도메인 작품입니다.
